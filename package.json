@@ -1,0 +1,21 @@
+{
+    "name": "nexus-palenight",
+    "displayName": "Nexus Palenight",
+    "description": "A slightly modified version of Material Palenight.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nexus Palenight",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Nexus Palenight-color-theme.json"
+            }
+        ]
+    }
+}
