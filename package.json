@@ -3,7 +3,7 @@
     "publisher": "lusignan",
     "displayName": "Nexus Palenight",
     "description": "A slightly modified version of Material Palenight.",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.52.0"
     },
