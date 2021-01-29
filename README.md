@@ -5,7 +5,7 @@ Nexus Palenight is a variant of the great Material Palenight theme but with some
 
 # Screenshot
 
-![Python Example](img.png)
+![Python Example](screenshot.png)
 
 
 **Enjoy!**
